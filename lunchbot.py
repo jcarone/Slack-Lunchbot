@@ -432,7 +432,7 @@ if Initialize():
 						message=evt["text"].lower()
 						if message.startswith('lunchbot stats:') or message.startswith('lunch statistics:'):
 							GetStatistics(message)
-						elif message.startswith('luncbot set time:'):
+						elif message.startswith('lunchbot set time:'):
 							SetLunchTime(message)
 						elif message.startswith('lunchbot retire:'):
 							RetireUser(message)
