@@ -1,0 +1,7 @@
+{
+  "lunchChannel": "#lunch", 
+  "lunchtimeHour": 12, 
+  "lunchtimeMinute": 0, 
+  "reminder": 15, 
+  "token": "xxxx-xxxxxxxxxx-xxxxxxxxxx-xxxxxxxxxxx-xxxxxxxxxx"
+}
